@@ -1,23 +1,120 @@
-<h1 align="center">Hi 👋, soy Jonathan Naranjo</h1>
-<h3 align="center">Un desarrollador de frontend apasionado de Ecuador</h3>
+<h1 align="center">
+  <span style="display: inline-block; animation: appear 1s forwards;">H</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.2s;">i</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.4s;">,</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.6s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.8s;">I</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1s;">'</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.2s;">m</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.4s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.6s;">J</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.8s;">o</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.2s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.4s;">t</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.6s;">h</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.8s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.2s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.4s;">N</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.6s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.8s;">r</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.2s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.4s;">j</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.6s;">o</span>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvwhu&label=Profile%20views&color=0e75b6&style=flat" alt="elvwhu" /> </p>
+<h3 align="center">Passionate Web Developer from Ecuador 🇪🇨</h3>
 
-- 🌱 Iianm actualmente aprendiendo **Python, PHP, C++**
+---
 
-- 🤝 Iianm buscando ayuda con [Dashboard Financiero](https://zingy-beignet-467912.netlify.app/)
+### Technologies I Work With:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-- 📫 Cómo contactarme **jonathannaranjomaya@gmail.com**
+---
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan-naranjo-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-naranjo-" height="30" width="40"/></a>
-<a href="https://instagram.com/elvwhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvwhu" height="30" width="40"/></a>
-</p>
+### Featured Project 🚀
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### Financial Dashboard
+A powerful and intuitive financial dashboard designed to help users manage their income, expenses, and debts efficiently. Key features include:
+- **Income and Expense Tracking**: Easily log and categorize your financial transactions.
+- **Debt Management**: Keep track of your debts, including due dates and payment progress.
+- **Visual Analytics**: Interactive line charts to visualize your financial health over time.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=elvwhu&show_icons=true&locale=en" alt="elvwhu" /></p>
+🔗 [View Project](#) *(Add the link to your project repository or live demo here)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvwhu&" alt="elvwhu" /></p>
+---
+
+### GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+
+---
+
+### Let's Connect! 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/jonathan-naranjo-/)
+- [Instagram](https://www.instagram.com/elvwhu/)
+- ✉️ Email: tu_correo@example.com *(Add your email if you'd like)*
+
+---
+
+### Banner 🎨
+
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+
+---
+
+### What Else Can I Add?
+- **Inspirational Quote**: A quote that motivates you or defines your work philosophy.
+- **Achievements**: Certifications, awards, or recognitions.
+- **Hobbies**: Something personal that defines you outside of development.
+- **Open Source Contributions**: If you contribute to open-source projects, mention them here.
+
+---
+
+### Code for Sequential Text Effect
+Here’s the HTML and CSS code for the sequential text effect:
+
+```html
+<h1>
+  <span style="display: inline-block; animation: appear 1s forwards;">H</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.2s;">i</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.4s;">,</span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.6s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 0.8s;">I</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1s;">'</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.2s;">m</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.4s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.6s;">J</span>
+  <span style="display: inline-block; animation: appear 1s forwards 1.8s;">o</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.2s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.4s;">t</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.6s;">h</span>
+  <span style="display: inline-block; animation: appear 1s forwards 2.8s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.2s;"> </span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.4s;">N</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.6s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 3.8s;">r</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4s;">a</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.2s;">n</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.4s;">j</span>
+  <span style="display: inline-block; animation: appear 1s forwards 4.6s;">o</span>
+</h1>
+
+<style>
+  @keyframes appear {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
