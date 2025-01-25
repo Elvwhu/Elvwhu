@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFOM08zMNVfKg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725197045311?e=1743033600&v=beta&t=W360Z12Oc4sIt6juAF8NKmdC65z9IlWzKqLP4xT8E-k" alt="Jonathan Naranjo" width="200"/>
-</p>
-
 # <p align="center">Hi, I'm Jonathan Naranjo! 👋</p>
 
 ## <p align="center">🚀 Passionate Web Developer from Ecuador 🇪🇨</p>
@@ -27,12 +23,11 @@ _A powerful web-based dashboard for managing incomes, expenses, and debts with i
 
 🖥️ **Tech Stack:** HTML, CSS, JavaScript, Python, SQL
 
-📌 **Repository:** [GitHub Repo](your-repo-url-here)
+📌 **Repository:** [GitHub Repo](https://github.com/Elvwhu/dashboard_financiero)
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvwhu&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvwhu&layout=compact&theme=dark)
 
 ### 🌐 Connect with Me
 
