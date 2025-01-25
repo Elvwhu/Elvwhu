@@ -1,6 +1,8 @@
-![Banner](your-banner-image-url-here.png)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFOM08zMNVfKg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725197045311?e=1743033600&v=beta&t=W360Z12Oc4sIt6juAF8NKmdC65z9IlWzKqLP4xT8E-k" alt="Jonathan Naranjo" width="200"/>
+</p>
 
-# Hi, I'm Jonathan Naranjo! 👋
+# <p align="center">Hi, I'm Jonathan Naranjo! 👋</p>
 
 ## <p align="center">🚀 Passionate Web Developer from Ecuador 🇪🇨</p>
 
