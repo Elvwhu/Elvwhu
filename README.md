@@ -1,4 +1,4 @@
-![Banner](your-banner-image-url-here)
+![Banner](your-banner-image-url-here.png)
 
 # Hi, I'm Jonathan Naranjo! 👋
 
@@ -45,8 +45,8 @@ _A powerful web-based dashboard for managing incomes, expenses, and debts with i
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvwhu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvwhu&layout=compact&theme=dark)
 
 ### 🌐 Connect with Me
 
