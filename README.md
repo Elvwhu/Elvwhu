@@ -2,23 +2,7 @@
 
 # Hi, I'm Jonathan Naranjo! 👋
 
-```html
-<span id="animated-text"></span>
-<script>
-  const text = "Hi, I'm Jonathan Naranjo";
-  let i = 0;
-  function typeEffect() {
-    if (i < text.length) {
-      document.getElementById("animated-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeEffect, 100);
-    }
-  }
-  document.addEventListener("DOMContentLoaded", typeEffect);
-</script>
-```
-
-## 🚀 Passionate Web Developer from Ecuador 🇪🇨
+## <p align="center">🚀 Passionate Web Developer from Ecuador 🇪🇨</p>
 
 ### 🛠️ Technologies & Tools
 
